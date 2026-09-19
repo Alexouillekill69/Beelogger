@@ -22,7 +22,7 @@ Demonstrations that help researchers, students, and security professionals under
 
 ## HOW TO INSTALL:
 
-Video: https://www.youtube.com/watch?v=rpOeA2Q_B9Q
+Video: 
 
 ### Cloning:
 ```
