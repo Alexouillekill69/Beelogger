@@ -65,7 +65,7 @@ Taken from [LICENSE](LICENSE).
 
 **I need your Help to become it to better.**
 
-### Contact:
+### Contact (if you need help):
 **contact@aelof.com**
 
 ## License:
