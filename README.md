@@ -4,7 +4,6 @@
 Original work © 2017 – BeeLogger
 Written by: * **Alisson Moretto** - [4w4k3](https://github.com/4w4k3)
 Twitter: @4w4k3Official
-*The original project was based on the work of Alisson Moretto (4w4k3), the original author of BeeLogger.
 
 TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
@@ -23,11 +22,11 @@ Demonstrations that help researchers, students, and security professionals under
 
 ## HOW TO INSTALL:
 
-Video: 
+Video: https://www.youtube.com/watch?v=rpOeA2Q_B9Q
 
 ### Cloning:
 ```
-git clone https://github.com/aelof1/Beelogger.git
+git clone https://github.com/OpSkillFactory/Beelogger.git
 ```
 
 ### Running: Follow the YouTube Video ###
