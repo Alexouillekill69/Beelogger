@@ -27,7 +27,7 @@ Video:
 
 ### Cloning:
 ```
-git clone https://github.com/aelof/Beelogger.git
+git clone https://github.com/aelof1/Beelogger.git
 ```
 
 ### Running: Follow the YouTube Video ###
