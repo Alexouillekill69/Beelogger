@@ -26,7 +26,7 @@ Video: https://www.youtube.com/watch?v=rpOeA2Q_B9Q
 
 ### Cloning:
 ```
-git clone https://github.com/OpSkillFactory/Beelogger.git
+git clone https://github.com/aelof1/Beelogger.git
 ```
 
 ### Running: Follow the YouTube Video ###
